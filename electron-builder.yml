@@ -42,7 +42,7 @@ linux:
   maintainer: 'Cleboost'
   vendor: 'Cleboost'
   synopsis: 'Cheat Launcher'
-  description: 'A cheate launcher with multi-version'
+  description: 'A cheat launcher with multi-version'
   category: 'Game'
 
 
